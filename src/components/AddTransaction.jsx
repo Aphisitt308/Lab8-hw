@@ -1,11 +1,14 @@
 import React, { Component } from 'react'
+import firebase from '../firebase/firebase'
 
 export default class AddTransaction extends Component {
   
   state = {
     name:'',
     amount:''
+
   }
+
 
   onChange = (e) => {
     this.setState( { [e.target.name]: e.target.value } );

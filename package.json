@@ -1,7 +1,7 @@
 {
   "name": "react-expenses-v2",
   "version": "0.1.0",
-  "hompage": "https://aphisitt308.github.io/Lab8-hw/",
+  "homepage": "https://aphisitt308.github.io/Lab8-hw/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
